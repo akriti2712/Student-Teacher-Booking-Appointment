@@ -103,3 +103,7 @@ student-teacher-appointment-booking/
 
 <img width="1366" height="768" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/359dc45c-b749-4183-a2f0-88c426c4d510" />
 
+👩‍🎓 Author
+
+Akriti Srivastav
+Frontend Developer (Internship Project)
