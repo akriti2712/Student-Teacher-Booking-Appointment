@@ -72,3 +72,34 @@ Designed to be HR-ready for internship evaluation with clean UI, EdTech theme, a
 
 ## 📂 Repository Structure
 
+student-teacher-booking/
+│
+├── index.html # Main application file (merged)
+├── style.css # Stylesheet (light/dark mode, responsive)
+├── script.js # Full logic (login, booking, filters, dashboard)
+│
+├── assets/ # Icons, logos, optional images
+│ ├── icons/
+│ ├── logos/
+│ └── ...
+│
+├── README.md # Project documentation
+└── LICENSE # (Optional)
+
+## 📁 Project Structure
+
+student-teacher-appointment-booking/
+│
+├── index.html # Combined single-page website
+├── style.css # Global stylesheet
+├── script.js # JS logic (login, teachers, booking, dashboard)
+├── README.md # Documentation
+│
+└── assets/ # Images, icons, backgrounds (optional)
+
+📸 Screenshots
+<img width="1366" height="768" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/ec96269c-8677-4ed1-8c62-f64546c71766" />
+
+
+<img width="1366" height="768" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/359dc45c-b749-4183-a2f0-88c426c4d510" />
+
