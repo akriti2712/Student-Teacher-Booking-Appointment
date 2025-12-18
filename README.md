@@ -107,3 +107,4 @@ student-teacher-appointment-booking/
 
 Akriti Srivastav
 Frontend Developer (Internship Project)
+📧 Email: akritisrivastav3061@gmail.com
